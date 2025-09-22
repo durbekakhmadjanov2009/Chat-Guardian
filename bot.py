@@ -7,7 +7,7 @@ import os
 
 # 🔹 Bot token va webhook URL
 BOT_TOKEN = os.getenv("8390049742:AAERV1JhkDatnw69WrQKaKYrNJHjQFGz_s4")  # Railway Configdan olinadi
-APP_URL = os.getenv("APP_URL")  # Railway project URL: https://<project>.up.railway.app
+APP_URL = os.getenv("https://chat-guardian.up.railway.app")  # Railway project URL: https://<project>.up.railway.app
 
 # ❌ Taqiqlangan so‘zlar
 BAD_WORDS = [
